@@ -1,4 +1,5 @@
 git 教程
 
-----feature-A
+---- feature-A
 ---- fix-b
+---- feature-C
